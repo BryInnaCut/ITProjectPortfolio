@@ -120,6 +120,9 @@ This forms a foundation for more advanced skills such as:
 
     Automation with Bash/Ansible
 
+<img width="1854" height="1048" alt="Screenshot from 2025-11-29 21-27-01" src="https://github.com/user-attachments/assets/6d1d3172-a5b6-46df-a1fd-3d3d9c9afc0f" />
+
+
     Server hardening
 
     Enterprise authentication (LDAP, AD)
