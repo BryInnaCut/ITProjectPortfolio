@@ -1,0 +1,12 @@
+server {
+	listen 80;
+	server_name _;
+
+	root /var/www/portfolio;
+	index index.html index.htm;
+
+	location / {
+		try_files $uri $uri/ =404;
+	}
+}
+

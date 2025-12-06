@@ -1,0 +1,80 @@
+# 🌐 Bryson Lee — Portfolio Website  
+A clean, responsive portfolio website built with **HTML**, **CSS**, and **JavaScript**.  
+Designed to showcase my cloud engineering projects, technical skills, and contact information.
+
+---
+
+## 🚀 Features
+- Fully responsive modern portfolio layout  
+- Navigation menu with anchor links  
+- Project showcase section with detailed descriptions  
+- Skills section highlighting core technologies  
+- Contact section for email and LinkedIn  
+- Clean, maintainable file structure (`index.html`, `style.css`, `script.js`)
+
+---
+
+## 📁 Project Structure
+
+/portfolio
+│── index.html # Main website file
+│── style.css # Styles & visual design
+│── script.js # Animations & interactivity
+└── assets/ # (optional) images, icons, etc.
+
+
+---
+
+## 🧑‍💻 Technologies Used
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+- **Nginx** (for hosting on Ubuntu server)  
+- **Linux (Ubuntu)**  
+- **File permissions & directory management**  
+- **Basic web deployment**
+
+---
+
+## 🔒 Linux Permissions Project (Added to Portfolio)
+This website includes a project demonstrating my experience with:
+
+- Creating Linux user accounts  
+- Managing groups  
+- Assigning directory/file permissions  
+- Understanding rwx permission sets  
+- Securing project environments  
+- Hosting a website on an Ubuntu server
+
+This project appears in the "Projects" section of the website.
+
+---
+
+## 📸 Screenshots  
+*(Add screenshots here later if you want)*  
+Example:
+
+
+---
+
+## 🌍 Hosting  
+This site is currently hosted on an **Ubuntu Nginx web server** as part of my cloud and Linux learning journey.
+
+---
+
+## 📬 Contact  
+**Email:** Bryson4k@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/brysonlee  
+
+---
+
+## ⭐ Future Improvements
+- Adding CSS animations  
+- Adding a dark/light theme toggle  
+- Expanding the project section with new AWS, Docker, and networking labs  
+- Deploying on AWS (EC2 or S3 + CloudFront)
+
+---
+
+## 📄 License  
+This project is open-source and available under the MIT License.
